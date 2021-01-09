@@ -1,6 +1,0 @@
-RENCANA KONTEN WPU
-
--Javascript
--PHP Framework
--interview
--Vlogs
